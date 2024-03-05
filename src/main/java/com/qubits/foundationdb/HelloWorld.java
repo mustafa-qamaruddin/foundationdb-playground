@@ -5,7 +5,7 @@ import com.foundationdb.FDB;
 import com.foundationdb.Transaction;
 import com.foundationdb.tuple.Tuple;
 
-public class Main {
+public class HelloWorld {
 
   private static final FDB fdb;
   private static final Database db;
