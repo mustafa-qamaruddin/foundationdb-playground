@@ -1,6 +1,6 @@
 # FoundationDB Playground
 
-Experiment with different features and tutorials of [https://apple.github.io/foundationdb/tutorials.html](FoundationDB)
+Experiment with different features and tutorials of (FoundationDB)[https://apple.github.io/foundationdb/tutorials.html]
 
 # Shortcomings
 
