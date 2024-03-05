@@ -4,4 +4,4 @@ Experiment with different features and tutorials of [https://apple.github.io/fou
 
 # Shortcomings
 
-[x]- Compile error on JDK 17, solution reverted back to JDK 11
+* Compile error on JDK 17, solution reverted back to JDK 11
