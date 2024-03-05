@@ -177,7 +177,7 @@ public class ClassScheduling {
           myClasses.add(newC);
         }
       } catch (Exception e) {
-        System.out.println(e.getMessage() + "Need to recheck available classes.");
+        System.out.println(e.getMessage() + " Need to recheck available classes.");
         allClasses.clear();
       }
 
